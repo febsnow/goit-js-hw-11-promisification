@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/febsnow/goit-js-hw-11-color-switch.git"
+    "url": "git+https://github.com/febsnow/goit-js-hw-11-promisification.git"
   },
   "keywords": [],
   "author": "Sergei CJ Smekalin <cj22@mail.ru>",
   "license": "MIT",
-  "homepage": "https://febsnow.github.io/goit-js-hw-11-color-switch/",
+  "homepage": "https://febsnow.github.io/goit-js-hw-11-promisification/",
   "devDependencies": {
     "@babel/core": "^7.11.6",
     "@babel/plugin-proposal-class-properties": "^7.10.4",
