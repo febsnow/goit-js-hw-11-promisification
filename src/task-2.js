@@ -24,7 +24,6 @@ const logger = updatedUsers => console.table(updatedUsers);
 // /*
 //  * Должно работать так
 //  */
-toggleUserState(users, 'Pol').then(logger);
 toggleUserState(users, 'Poly').then(logger);
 toggleUserState(users, 'Mango').then(logger);
 toggleUserState(users, 'Lux').then(logger);
